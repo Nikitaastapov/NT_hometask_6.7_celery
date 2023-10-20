@@ -1,0 +1,7 @@
+celery
+redis
+flask
+opencv-python
+opencv-contrib-python
+requests
+
